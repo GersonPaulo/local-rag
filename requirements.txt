@@ -2,3 +2,7 @@ chromadb
 sentence-transformers
 pymupdf
 ollama
+
+# cria dois folders chrome_db e documents
+# dentro do documents poes od files txt pdfs snd all data you want to use 
+#modelo ollam qwen2.5:3b
